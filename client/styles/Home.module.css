@@ -1,0 +1,26 @@
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 600px;
+  margin: 70px auto;
+  text-align: center;
+  font-family: arial;
+}
+.body {
+  height: 250px;
+}
+.text {
+  font-weight: 700;
+  margin: 20px auto 50px;
+  font-size: 45px;
+}
+.angka {
+  font-weight: bolder;
+  margin: 20px auto 30px;
+  font-size: 100px;
+}
+.antrian {
+  margin-bottom: 20px;
+}
+.judul {
+  margin: 10px 20px;
+}
